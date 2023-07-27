@@ -25,17 +25,15 @@ The crystack folder contains the script to perform the intermolecular analysis.
 
 This repo is structured as follows:
 
-The entire ```crystack``` analysis for a relevant molecular crystal is run via
-modifying the automation script: ```run_analysis_for_crystal.sh```
+The main software module is inside the ```crystack``` folder. The workflow can be run via
+modification of the automation script: ```run_analysis_for_crystal.sh```
 
-There are several Jupyter notebooks for running the analysis interactively.
+There are several Jupyter notebooks for running the analysis interactively (`notebooks`).
 
 The crystal stacking results are stored in a results.csv file and some results
-can be found here: ```results/```
+can be found here: ```results```
 
-Raw Molecular Data: ```data/```
+Raw Molecular Data: ```data```
 
-Residuals files of Molecular Crystals: ```res/```
-
-Preliminary results plots: ```Figures/```
+A sample polymorph landscape with hundreds of residual (.res) files of molecular crystals: `sample-polymorph-landscape`
  
