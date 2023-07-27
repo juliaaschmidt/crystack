@@ -1,0 +1,62 @@
+
+#######################################################################
+#
+#                 Cambridge Crystallographic Data Centre
+#                                CCDC 
+#
+#######################################################################
+#
+# If this CIF has been generated from an entry in the Cambridge 
+# Structural Database, then it will include bibliographic, chemical, 
+# crystal, experimental, refinement or atomic coordinate data resulting 
+# from the CCDC's data processing and validation procedures.
+#
+#######################################################################
+
+data_s3103 SpaceGroup_P21/c (no transformation needed)
+_symmetry_cell_setting           monoclinic
+_symmetry_space_group_name_H-M   'P 21/c'
+_symmetry_Int_Tables_number      14
+_space_group_name_Hall           '-P 2ybc'
+loop_
+_symmetry_equiv_pos_site_id
+_symmetry_equiv_pos_as_xyz
+1 x,y,z
+2 -x,1/2+y,1/2-z
+3 -x,-y,-z
+4 x,1/2-y,1/2+z
+_cell_length_a                   14.8143
+_cell_length_b                   5.6750
+_cell_length_c                   8.5296
+_cell_angle_alpha                90.0000
+_cell_angle_beta                 89.1948
+_cell_angle_gamma                90.0000
+_cell_volume                     717.022
+loop_
+_atom_site_label
+_atom_site_type_symbol
+_atom_site_fract_x
+_atom_site_fract_y
+_atom_site_fract_z
+_atom_site_U_iso_or_equiv
+_atom_site_thermal_displace_type
+C1 C 0.795534 0.749108 0.368123 0.0500 Uiso
+C2 C 0.883978 0.817262 0.385954 0.0500 Uiso
+C3 C 0.915304 1.0317 0.319767 0.0500 Uiso
+C4 C 0.857544 1.17364 0.237101 0.0500 Uiso
+C5 C 0.765851 1.1085 0.216512 0.0500 Uiso
+C6 C 0.734155 0.891504 0.283487 0.0500 Uiso
+C7 C 0.642451 0.826373 0.262894 0.0500 Uiso
+C8 C 0.584702 0.968311 0.180232 0.0500 Uiso
+C9 C 0.616028 1.18275 0.114052 0.0500 Uiso
+C10 C 0.704463 1.25089 0.131876 0.0500 Uiso
+H1 H 0.771322 0.584571 0.418811 0.0500 Uiso
+H2 H 0.930194 0.70666 0.450963 0.0500 Uiso
+H3 H 0.985262 1.08367 0.334609 0.0500 Uiso
+H4 H 0.881428 1.33833 0.186181 0.0500 Uiso
+H5 H 0.618568 0.661678 0.313814 0.0500 Uiso
+H6 H 0.514734 0.916344 0.165386 0.0500 Uiso
+H7 H 0.569811 1.29336 0.0490324 0.0500 Uiso
+H8 H 0.728675 1.41543 0.0811872 0.0500 Uiso
+
+#END
