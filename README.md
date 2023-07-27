@@ -1,8 +1,8 @@
 # crystack
 
 A Python module to analyse the intermolecular interactions across an organic
-molecular material. This code was written as part of my PhD thesis and the
-crystal interactions module.
+molecular material. This code was written as part of my PhD thesis as a member of the 
+Jelfs Group.
 
 This repository is of scientific relevance, because it takes a crystallographic
 database file structure, which is provided in periodic coordinates, transforms
@@ -36,4 +36,11 @@ can be found here: ```results```
 Raw Molecular Data: ```data```
 
 A sample polymorph landscape with hundreds of residual (.res) files of molecular crystals: `sample-polymorph-landscape`
+
+
+## Requirements
+
+This software package uses the modularity finding ability of `pywindow`, also developed by the Jelfs Group
+
+`pip install pywindow`
  
